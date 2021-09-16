@@ -50,7 +50,7 @@ body{
     margin: -30px 0 0 ;
     font-size: 20px;
     text-align: center;
-    color: #7979797;
+    color: #797979;
 }
 @media (max-width:767px) {
     .special-heading {
@@ -213,7 +213,7 @@ line-height: 1.8;
     display: flex;
     margin-bottom: 40px;
 }
-@media (max-width: :767px) {
+@media (max-width:767px) {
     .services .services-content .srv {
         flex-direction: column;
         text-align: center;
